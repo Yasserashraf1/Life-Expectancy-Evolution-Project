@@ -42,7 +42,7 @@ To run the analysis, you will need to have the following R packages installed:
 * readr
 * fitdistrplus
 * MASS
-You can install the required packages using the following commands:
+* You can install the required packages using the following commands:
 install.packages("readr")
 install.packages("fitdistrplus")
 install.packages("MASS")
